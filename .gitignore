@@ -1,1 +1,8 @@
 *.txt
+.DS_Store
+.idea
+.settings
+out
+target
+.classpath
+.project
